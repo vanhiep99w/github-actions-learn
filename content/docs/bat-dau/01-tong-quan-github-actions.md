@@ -5,6 +5,20 @@ description: "Giới thiệu GitHub Actions, bài toán tự động hóa và c�
 
 # Tổng quan GitHub Actions
 
+Tài liệu học GitHub Actions bằng tiếng Việt, được tổ chức theo lộ trình từ nền tảng đến CI/CD production. Đây là điểm bắt đầu của toàn bộ nội dung trong repository.
+
+<Cards>
+  <Card href="/docs/bat-dau/04-lo-trinh-hoc-tap/" title="105 tài liệu">
+    Học từ nền tảng đến production theo lộ trình có hệ thống.
+  </Card>
+  <Card href="/docs/bat-dau/03-workflow-dau-tien/" title="13 chủ đề">
+    Bao quát workflow, runners, CI/CD, bảo mật và vận hành.
+  </Card>
+  <Card href="/docs/cong-thuc/01-basic-ci/" title="Thực hành">
+    Có sẵn khung bài tập, workflow mẫu và runbook để hoàn thiện.
+  </Card>
+</Cards>
+
 ## Mục lục
 
 - [Tổng quan](#tổng-quan)
