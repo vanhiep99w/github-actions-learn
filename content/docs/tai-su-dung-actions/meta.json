@@ -1,0 +1,12 @@
+{
+  "title": "Tái sử dụng và custom actions",
+  "pages": [
+    "01-reusable-workflows",
+    "02-workflow-templates",
+    "03-composite-actions",
+    "04-javascript-actions",
+    "05-docker-container-actions",
+    "06-action-metadata",
+    "07-publish-version-actions"
+  ]
+}

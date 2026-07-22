@@ -1,0 +1,12 @@
+{
+  "title": "Runners",
+  "pages": [
+    "01-github-hosted-runners",
+    "02-self-hosted-runners",
+    "03-labels-va-runner-groups",
+    "04-larger-runners",
+    "05-autoscaling-arc",
+    "06-runner-hardening",
+    "07-runner-monitoring-maintenance"
+  ]
+}

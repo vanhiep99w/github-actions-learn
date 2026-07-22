@@ -1,0 +1,15 @@
+{
+  "title": "Điều khiển workflow",
+  "pages": [
+    "01-branch-path-filters",
+    "02-job-dependencies",
+    "03-conditionals",
+    "04-matrix-strategy",
+    "05-concurrency",
+    "06-defaults-timeouts",
+    "07-outputs",
+    "08-artifacts",
+    "09-dependency-caching",
+    "10-containers-service-containers"
+  ]
+}

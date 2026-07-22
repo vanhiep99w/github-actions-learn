@@ -1,0 +1,13 @@
+{
+  "title": "Công thức thực hành",
+  "pages": [
+    "01-basic-ci",
+    "02-multi-environment-deployment",
+    "03-docker-publish",
+    "04-monorepo-selective-ci",
+    "05-scheduled-maintenance",
+    "06-manual-operations",
+    "07-release-automation",
+    "08-cloud-deployment-oidc"
+  ]
+}

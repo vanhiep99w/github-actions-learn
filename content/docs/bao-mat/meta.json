@@ -1,0 +1,14 @@
+{
+  "title": "Bảo mật",
+  "pages": [
+    "01-github-token-permissions",
+    "02-secrets-management",
+    "03-oidc-federation",
+    "04-third-party-actions",
+    "05-script-injection",
+    "06-fork-pull-requests",
+    "07-artifact-attestations",
+    "08-supply-chain-security",
+    "09-security-checklist"
+  ]
+}

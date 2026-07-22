@@ -1,0 +1,14 @@
+{
+  "title": "Continuous Delivery và Deployment",
+  "pages": [
+    "01-deployment-fundamentals",
+    "02-environments-approvals",
+    "03-release-management",
+    "04-deploy-github-pages",
+    "05-publish-container-registry",
+    "06-deploy-kubernetes",
+    "07-deploy-aws-oidc",
+    "08-deploy-azure-gcp-oidc",
+    "09-rollback-strategies"
+  ]
+}

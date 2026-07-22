@@ -1,0 +1,13 @@
+{
+  "title": "Vận hành và tối ưu",
+  "pages": [
+    "01-debugging-logs",
+    "02-failure-handling",
+    "03-notifications",
+    "04-usage-limits-costs",
+    "05-performance-optimization",
+    "06-retention-cleanup",
+    "07-governance-audit",
+    "08-incident-runbook"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Nền tảng",
+  "pages": [
+    "01-cau-truc-workflow",
+    "02-yaml-cho-github-actions",
+    "03-events-va-triggers",
+    "04-jobs-va-steps",
+    "05-actions",
+    "06-runners",
+    "07-contexts",
+    "08-expressions",
+    "09-variables-va-environment-variables",
+    "10-secrets"
+  ]
+}

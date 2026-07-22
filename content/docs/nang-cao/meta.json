@@ -1,0 +1,14 @@
+{
+  "title": "Chủ đề nâng cao",
+  "pages": [
+    "01-dynamic-matrix",
+    "02-fan-out-fan-in",
+    "03-monorepo-workflows",
+    "04-merge-queue",
+    "05-workflow-chaining",
+    "06-repository-dispatch",
+    "07-cross-repository-automation",
+    "08-github-api-cli",
+    "09-policy-at-scale"
+  ]
+}

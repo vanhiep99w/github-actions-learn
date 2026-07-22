@@ -1,0 +1,13 @@
+{
+  "title": "Continuous Integration",
+  "pages": [
+    "01-ci-nodejs",
+    "02-ci-python",
+    "03-ci-java",
+    "04-ci-dotnet",
+    "05-ci-go",
+    "06-ci-rust",
+    "07-ci-docker",
+    "08-ci-database-services"
+  ]
+}

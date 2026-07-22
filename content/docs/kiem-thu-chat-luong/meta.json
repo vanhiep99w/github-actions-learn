@@ -1,0 +1,12 @@
+{
+  "title": "Kiểm thử và chất lượng",
+  "pages": [
+    "01-unit-testing",
+    "02-integration-testing",
+    "03-end-to-end-testing",
+    "04-lint-format-typecheck",
+    "05-code-coverage",
+    "06-codeql-dependency-review",
+    "07-test-reports-annotations"
+  ]
+}
