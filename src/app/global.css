@@ -22,7 +22,11 @@ samp {
   font-family: var(--font-mono);
 }
 
-#nd-page article {
+#nd-docs-layout {
+  --fd-layout-width: 100vw;
+}
+
+#nd-page {
   max-width: none;
 }
 
